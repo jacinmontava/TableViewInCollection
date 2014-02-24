@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>00E3F10F-974A-4A81-8CDE-85DCD644ED4A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableViewInCollection</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43CF82C6-F071-435B-A577-8458F378F7CF</key>
+		<string>https://github.com/jacinmontava/TableViewInCollection.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableViewInCollection.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43CF82C6-F071-435B-A577-8458F378F7CF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jacinmontava/TableViewInCollection.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43CF82C6-F071-435B-A577-8458F378F7CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43CF82C6-F071-435B-A577-8458F378F7CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableViewInCollection</string>
+		</dict>
+	</array>
+</dict>
+</plist>
